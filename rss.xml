@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brian Guay]]></title>
         <description><![CDATA[Brian Guay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brian-guay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 12:23:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 12:23:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brian-guay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sometimes a piece like this one will sit on the shelves for years when inspiration hits to take it up a notch. It was a fairly loose sketch but </p>]]></description>
+            <link>https://thegrid.ai/brian-guay/sometimes-a-piece-like-this-one-will-sit-on-the-shelves-for/index.html</link>
+            <guid isPermaLink="false">8619486f-5b0f-4f4e-a274-60166640f363</guid>
+            <pubDate>Sun, 05 Jun 2016 02:38:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>For me art is about people. Often I add themes of science fiction, fantasy or macabre but at it's roots my work is about people. </p>]]></description>
-            <link>undefinedfor-me-art-is-about-people-often-i-add-themes-of-science-fi/index.html</link>
+            <link>https://thegrid.ai/brian-guay/for-me-art-is-about-people-often-i-add-themes-of-science-fi/index.html</link>
             <guid isPermaLink="false">8b918ba7-a218-4f25-9ff6-5b576ea2009f</guid>
             <pubDate>Sun, 05 Jun 2016 02:33:06 GMT</pubDate>
         </item>
