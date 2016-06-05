@@ -4,21 +4,21 @@
         <description><![CDATA[Brian Guay]]></description>
         <link>https://thegrid.ai/brian-guay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 13:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 13:45:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brian-guay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12164073-700b-4b08-9393-00b14909a1a9.jpg">]]></description>
+            <link>https://thegrid.ai/brian-guay/sometimes-a-piece-like-this-one-will-sit-on-the-shelves-for/index.html</link>
+            <guid isPermaLink="false">8619486f-5b0f-4f4e-a274-60166640f363</guid>
+            <pubDate>Sun, 05 Jun 2016 13:45:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dd45807-02cd-4886-902b-0396cd8b0a9d.jpg">]]></description>
             <link>https://thegrid.ai/brian-guay/for-me-art-is-about-people-often-i-add-themes-of-science-fi/index.html</link>
             <guid isPermaLink="false">8b918ba7-a218-4f25-9ff6-5b576ea2009f</guid>
             <pubDate>Sun, 05 Jun 2016 13:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sometimes a piece like this one will sit on the shelves for years when inspiration hits to take it up a notch. It was a fairly loose sketch but </p>]]></description>
-            <link>https://thegrid.ai/brian-guay/sometimes-a-piece-like-this-one-will-sit-on-the-shelves-for/index.html</link>
-            <guid isPermaLink="false">8619486f-5b0f-4f4e-a274-60166640f363</guid>
-            <pubDate>Sun, 05 Jun 2016 03:05:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
